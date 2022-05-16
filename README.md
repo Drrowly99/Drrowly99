@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Blockchain related projects.
 - 📫 You can reach out to me on linkedin via (https://www.linkedin.com/in/divine-iso-b60937158/)
 -    Email : isodivine@gmail.com
--   I also built and run a starutup tha helps you send money to Africa, Nigeria in Particular. (https://www.dadicash.com)
+<!-- -   I also built and a starutup tha helps you send money to Africa, Nigeria in Particular. (https://www.dadicash.com) -->
 
 
 <!---
