@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Iso Divine, a Software Developer.
 - 👀 I’m interested in Blockchain Technology ...
-- 🌱 I’m currently learning how to build in the blockchain space using smart contracts (solidity & Rust) also buiding NFT's and DAO's. 
 - 💞️ I’m looking to collaborate on Blockchain related projects.
 - 📫 You can reach out to me on linkedin via (https://www.linkedin.com/in/divine-iso-b60937158/)
--    Email : isodivine@gmail.com
+- 🌱   Email : isodivine@gmail.com
 - 📫 I also built and a starutup tha helps people send money to Africa from the US, Nigeria in Particular. 
 - 🎼 I Built an Awesome API that lets Businesses accept Zelle payments in the US, no company has done this except Kaoshi, However ours is opensource, Remittance and Crypto Startups can integrate it to their existing aplications.
 - ۞  Link to the Zelle API is https://documenter.getpostman.com/view/14643978/2s83zdv5eU  thia is a sandbox only documentation.
